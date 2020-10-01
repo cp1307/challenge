@@ -1,0 +1,89 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+img {
+  position: relative;
+  padding-top: 50px;
+  left: 330px;
+}
+
+.toph {
+  font-family: 'Noto Sans JP', sans-serif;
+  color: #838383;
+}
+
+.bottomh {
+  font-family: 'Noto Sans JP', sans-serif;
+  color: #204051;
+}
+
+.xyz {
+  width: 40%;
+  color: #838383;
+  margin: 10px auto 30px;
+}
+
+h2 {
+  color: #204051;
+}
+
+h3 {
+  font-family: cursive;
+  color: #838383;
+}
+
+.s-container {
+  box-shadow: 0 5px 5px 5px #f1f3f8;
+  border-top-style: solid;
+  border-top-width: 4px;
+  border-color: #40a8c4;
+  display: inline-block;
+  width: 30%;
+  position: relative;
+  top: 110px;
+  text-align: left;
+  padding-left: 20px;
+}
+
+.tb-container {
+  box-shadow: 0 5px 5px 5px #f1f3f8;
+  border-top-style: solid;
+  border-top-width: 4px;
+  border-color: #e8505b;
+  display: inline-block;
+  width: 30%;
+  margin: 20px;
+  text-align: left;
+  padding-left: 20px;
+}
+
+.k-container {
+  box-shadow: 0 5px 5px 5px #f1f3f8;
+  border-top-style: solid;
+  border-top-width: 4px;
+  border-color: #ff9a76;
+  width: 30%;
+  display: inline-block;
+  text-align: left;
+  padding-left: 20px;
+}
+
+.c-container {
+  box-shadow: 0 5px 5px 5px #f1f3f8;
+  border-color: #0f4c75;
+  border-top-width: 4px;
+  border-top-style: solid;
+  display: inline-block;
+  width: 30%;
+  position: relative;
+  top: 110px;
+  text-align: left;
+  padding-left: 20px;
+}
+
+footer {
+  font-family: monospace;
+  margin-top: 70px;
+}
